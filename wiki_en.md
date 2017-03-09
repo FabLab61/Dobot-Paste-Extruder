@@ -1,6 +1,6 @@
 <h1>Dobot paste extruder</h1>
 
-![logo.jpg](https://github.com/FabLab61/Dobot_Paste_Extruder/IMG_1055.JPG)
+![logo.jpg](https://github.com/FabLab61/Dobot_Paste_Extruder/blob/master/IMG_1055.JPG?raw=true)
 
 Dobot paste extruder is a project started at Fablab61 Winter school. 
 Extruder prints 3d models using hot refined chocolate mass. The Extruder based on Dobot Magician Robo-arm. 
